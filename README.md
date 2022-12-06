@@ -47,8 +47,8 @@ A clear mindset of solving problems with various languages, learning new tricks 
 <br><br>
 <a href="https://github.com/SadmanRafith"> <img align="left" src="https://streak-stats.demolab.com?user=SadmanRafith&theme=github-dark-blue"/> </a>
 <br><br><br><br><br><br><br><br><br><br><br>
-<a href="https://github.com/SadmanRafith"> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SadmanRafith&layout=compact&theme=github_dark"/></a>
-<br><br><br><br><br><br><br><br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tahsinhasib&show_icons=true&theme=github_dark&count_private=true&layout=compact&langs_count=10)](https://github.com/tahsinhasib/github-readme-stats)
+
 
 
 ## <img src="https://cdn-icons-png.flaticon.com/512/610/610430.png" width="50px"/> Rafith's GitHub Contribution
