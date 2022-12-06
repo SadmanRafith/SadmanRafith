@@ -44,10 +44,21 @@ A clear mindset of solving problems with various languages, learning new tricks 
 
 
 
+## <img src="https://w7.pngwing.com/pngs/59/134/png-transparent-chart-computer-icons-statistics-report-elevator-repair-miscellaneous-angle-text.png" width="50px"/> My GitHub Stats 
+![Tahsin's GitHub stats](https://github-readme-stats.vercel.app/api?username=tahsinhasib&theme=github_dark&show_icons=true)
+<br><br>
+<a href="https://github.com/tahsinhasib"> <img align="left" src="https://streak-stats.demolab.com?user=tahsinhasib&theme=github-dark-blue"/> </a>
+<br><br><br><br><br><br><br><br><br><br><br>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/SadmanRafith)  
+ 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/SadmanRafith)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tahsinhasib&show_icons=true&theme=github_dark&count_private=true&layout=compact&langs_count=10)](https://github.com/tahsinhasib/github-readme-stats)
+
+
+## <img src="https://cdn-icons-png.flaticon.com/512/610/610430.png" width="50px"/> Tahsin's GitHub Contribution
+<img alt="Hima Rani Mathews's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=tahsinhasib&theme=react-dark&area=true" width="100%"  />
 
 
 
