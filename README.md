@@ -29,8 +29,16 @@ A clear mindset of solving problems with various languages, learning new tricks 
 <p align="left">
 </p>
 
-<h3 align="left">Prefferred Languages::</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
+## <img src="https://c.tenor.com/5ry-200hErMAAAAM/hacker-hacker-man.gif" width="50px"/> Prefered Languages :
+
+<img height="50" src = "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png"> <img height="50" > 
+<img height="50" src = "https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg"> 
+<img height="50" src = "https://brandslogos.com/wp-content/uploads/images/java-logo-1.png"> 
+<img height="50" src = "https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png?20201023095457"> 
+<img height="50" src = "https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg">
+<img height="50" src = "https://pngimg.com/uploads/mysql/mysql_PNG23.png">
+
+ 
 
 
  
