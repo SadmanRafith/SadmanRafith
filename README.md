@@ -45,9 +45,9 @@ A clear mindset of solving problems with various languages, learning new tricks 
 
 
 ## <img src="https://w7.pngwing.com/pngs/59/134/png-transparent-chart-computer-icons-statistics-report-elevator-repair-miscellaneous-angle-text.png" width="50px"/> My GitHub Stats 
-![Sadman Rafith GitHub stats](https://github-readme-stats.vercel.app/api?username=Rafith&theme=github_dark&show_icons=true)
+![Sadman Rafith GitHub stats](https://github-readme-stats.vercel.app/api?username=Sadman Rafith&theme=github_dark&show_icons=true)
 <br><br>
-<a href="https://github.com/SadmanRafith"> <img align="left" src="https://streak-stats.demolab.com?user=Rafith&theme=github-dark-blue"/> </a>
+<a href="https://github.com/SadmanRafith"> <img align="left" src="https://streak-stats.demolab.com?user=Sadman Rafith&theme=github-dark-blue"/> </a>
 <br><br><br><br><br><br><br><br><br><br><br>
 
  
@@ -55,7 +55,6 @@ A clear mindset of solving problems with various languages, learning new tricks 
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tahsinhasib&show_icons=true&theme=github_dark&count_private=true&layout=compact&langs_count=10)](https://github.com/tahsinhasib/github-readme-stats)
-
 
 
 
