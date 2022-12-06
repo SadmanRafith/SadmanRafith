@@ -54,7 +54,7 @@ A clear mindset of solving problems with various languages, learning new tricks 
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tahsinhasib&show_icons=true&theme=github_dark&count_private=true&layout=compact&langs_count=10)](https://github.com/tahsinhasib/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SadmanRafith&show_icons=true&theme=github_dark&count_private=true&layout=compact&langs_count=10)](https://github.com/SadmanRafith/github-readme-stats)
 
 
 
