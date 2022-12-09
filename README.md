@@ -61,7 +61,7 @@ A clear mindset of solving problems with various languages, learning new tricks 
 
 
 ## <img src="https://cdn-icons-png.flaticon.com/512/610/610430.png" width="50px"/> Rafith's GitHub Contribution
-<img alt="Hima Rani Mathews's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SadmanRafith&theme=react-dark&area=true" width="100%"  />
+[![Rafith's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=SadmanRafith&theme=react-dark&area=true&hide_border=false)](https://github.com/SadmanRafith/github-readme-activity-graph)
 
 
 ## <img src="https://images-platform.99static.com//979ew2eYmqF1PQhuf9MFQTjWn84=/0x0:1058x1058/fit-in/500x500/projects-files/49/4991/499142/20cfa402-5689-4eea-be2e-08406663e87d.jpg" width="30px"/> Connect with me 
