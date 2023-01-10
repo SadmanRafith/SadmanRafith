@@ -32,6 +32,15 @@ A clear mindset of solving problems with various languages, learning new tricks 
 <img height="50" src = "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Microsoft_Office_Word_%282019%E2%80%93present%29.svg/2203px-Microsoft_Office_Word_%282019%E2%80%93present%29.svg.png">
 <img height="50" src = "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/2203px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png">
 <img height="50" src = "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Microsoft_Office_PowerPoint_%282019%E2%80%93present%29.svg/640px-Microsoft_Office_PowerPoint_%282019%E2%80%93present%29.svg.png">
+  
+  ## <img src="https://images-platform.99static.com//979ew2eYmqF1PQhuf9MFQTjWn84=/0x0:1058x1058/fit-in/500x500/projects-files/49/4991/499142/20cfa402-5689-4eea-be2e-08406663e87d.jpg" width="30px"/> Connect with me 
+
+<p align="left">
+    <a href = "https://www.linkedin.com/in/sadman-rafith-597b451b7/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" width="40px"/></a>
+    <a href = "https://www.facebook.com/sadman.rafith.20/"><img src="https://img.icons8.com/fluent/48/000000/facebook.png" width="40px"/></a>
+    <a href = "https://www.instagram.com/sadman_rafith/?hl=en"><img src="https://cdn4.iconfinder.com/data/icons/social-media-2210/24/Instagram-512.png"width="40px"/</a>
+      <a href = "https://www.hackerrank.com/rafithsadman?hr_r=1"><img src = "https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" width = "40px"/></a>
+
 
   
 ## <img src="https://cdn-icons-png.flaticon.com/512/610/610430.png" width="50px"/> Rafith's GitHub Contribution
@@ -46,13 +55,11 @@ A clear mindset of solving problems with various languages, learning new tricks 
 
  
 
-## <img src="https://images-platform.99static.com//979ew2eYmqF1PQhuf9MFQTjWn84=/0x0:1058x1058/fit-in/500x500/projects-files/49/4991/499142/20cfa402-5689-4eea-be2e-08406663e87d.jpg" width="30px"/> Connect with me 
 
-<p align="left">
-    <a href = "https://www.linkedin.com/in/sadman-rafith-597b451b7/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" width="40px"/></a>
-    <a href = "https://www.facebook.com/sadman.rafith.20/"><img src="https://img.icons8.com/fluent/48/000000/facebook.png" width="40px"/></a>
-    <a href = "https://www.instagram.com/sadman_rafith/?hl=en"><img src="https://cdn4.iconfinder.com/data/icons/social-media-2210/24/Instagram-512.png"width="40px"/</a>
-      <a href = "https://www.hackerrank.com/rafithsadman?hr_r=1"><img src = "https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" width = "40px"/></a>
+<div align="center">
+<h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
 
-    
+<br>
+<img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
+</div>
 </p>
