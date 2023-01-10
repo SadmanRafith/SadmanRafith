@@ -46,8 +46,8 @@ A clear mindset of solving problems with various languages, learning new tricks 
 ## <img src="https://cdn-icons-png.flaticon.com/512/610/610430.png" width="50px"/> Rafith's GitHub Contribution
 [![Rafith's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=SadmanRafith&theme=react-dark&area=true&hide_border=false)](https://github.com/SadmanRafith/github-readme-activity-graph)
   
-  <p align="left">
-  <img height="60%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=SadmanRafith&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
+ 
+   <p align="left"><img height="60%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=SadmanRafith&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
   <img height="60%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=SadmanRafith&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
      <p align="centre">
    <img height="150" width="150" src="https://github.com/ahammadmejbah/AHAMMADMEJBAH/blob/main/WEBP/left.webp">
