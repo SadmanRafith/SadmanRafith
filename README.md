@@ -15,8 +15,13 @@ A clear mindset of solving problems with various languages, learning new tricks 
 
 <br>
  
-<h3 align="left">🔗Prefferred Languages::</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
+🔗Prefferred Languages::
+  
+<img height="50" src = "https://brandslogos.com/wp-content/uploads/images/java-logo-1.png"><img height="50">
+<img height="50" src = "https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png?20201023095457"> 
+<img height="50" src = "https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg">
+<img height="50" src = "https://pngimg.com/uploads/mysql/mysql_PNG23.png">
+
 
 <br>
 🔗 Working Tools:
@@ -47,7 +52,7 @@ A clear mindset of solving problems with various languages, learning new tricks 
     <a href = "https://www.linkedin.com/in/sadman-rafith-597b451b7/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" width="40px"/></a>
     <a href = "https://www.facebook.com/sadman.rafith.20/"><img src="https://img.icons8.com/fluent/48/000000/facebook.png" width="40px"/></a>
     <a href = "https://www.instagram.com/sadman_rafith/?hl=en"><img src="https://cdn4.iconfinder.com/data/icons/social-media-2210/24/Instagram-512.png"width="40px"/</a>
-      <a href = "(https://www.hackerrank.com/rafithsadman)"><img src = "https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" width = "40px"/></a>
+      <a href = "https://www.hackerrank.com/rafithsadman?hr_r=1"><img src = "https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" width = "40px"/></a>
 
     
 </p>
