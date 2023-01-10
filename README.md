@@ -42,7 +42,6 @@ A clear mindset of solving problems with various languages, learning new tricks 
       <a href = "https://www.hackerrank.com/rafithsadman?hr_r=1"><img src = "https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" width = "40px"/></a>
 
 
-  
 ## <img src="https://cdn-icons-png.flaticon.com/512/610/610430.png" width="50px"/> Rafith's GitHub Contribution
 [![Rafith's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=SadmanRafith&theme=react-dark&area=true&hide_border=false)](https://github.com/SadmanRafith/github-readme-activity-graph)
   
