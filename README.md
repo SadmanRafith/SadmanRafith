@@ -6,6 +6,8 @@
 <h1>
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Hey+there%2C+%F0%9F%91%8B%F0%9F%8F%BB;I'm+Sadman+Rafith++%F0%9F%A4%9E%F0%9F%8F%BB" alt="Typing SVG" /></a>
 <h1>
+
+<p><img src="https://komarev.com/ghpvc/?username=SadmanRafith&label=Profile%20views&color=0e8bb4&style=flat" alt="SadmanRafith" /></p>
    
 ##   <img src="https://www.pngmart.com/files/21/About-Me-PNG.png" width="50px"/> About me
 A clear mindset of solving problems with various languages, learning new tricks of solving problems. Currently studying BSc in Computer Science & Engineering.
