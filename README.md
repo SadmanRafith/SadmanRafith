@@ -43,8 +43,7 @@ A clear mindset of solving problems with various languages, learning new tricks 
     <a href = "https://www.linkedin.com/in/sadman-rafith-597b451b7/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" width="40px"/></a>
       <a href = "https://www.hackerrank.com/rafithsadman?hr_r=1"><img src = "https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" width = "40px"/></a>
       <a href = "https://codeforces.com/profile/Rafith"><img src = "https://cdn.iconscout.com/icon/free/png-256/code-forces-3628695-3029920.png" width = "40px"/></a>
-
-
+  
 
 ## <img src="https://cdn-icons-png.flaticon.com/512/610/610430.png" width="50px"/> Rafith's GitHub Contribution
 [![Rafith's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=SadmanRafith&theme=react-dark&area=true&hide_border=false)](https://github.com/SadmanRafith/github-readme-activity-graph)
