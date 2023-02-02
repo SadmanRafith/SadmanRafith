@@ -31,11 +31,10 @@ A clear mindset of solving problems with various languages, learning new tricks 
 <img height="50" src = "https://1000logos.net/wp-content/uploads/2020/08/Visual-Studio-Logo.png"> 
 <img height="50" src = "https://www.nesabamedia.com/wp-content/uploads/2019/07/Code-Blocks-Logo-1.png"> 
 <img height="50" src = "https://cdn4.iconfinder.com/data/icons/flat-brand-logo-2/512/oracle-512.png"><img height ="50"> 
+<img height="50" src = "https://upload.wikimedia.org/wikipedia/commons/0/0f/Notepad%2B%2B_Logo.png?20121112030109">
 <img height="50" src = "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Microsoft_Office_Word_%282019%E2%80%93present%29.svg/2203px-Microsoft_Office_Word_%282019%E2%80%93present%29.svg.png">
 <img height="50" src = "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/2203px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png">
 <img height="50" src = "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Microsoft_Office_PowerPoint_%282019%E2%80%93present%29.svg/640px-Microsoft_Office_PowerPoint_%282019%E2%80%93present%29.svg.png">
-<img height="50" src = "https://w7.pngwing.com/pngs/525/34/png-transparent-notepad-source-code-editor-text-editor-html-binder-note-text-logo-c.png">
-
 
 
   
@@ -47,6 +46,8 @@ A clear mindset of solving problems with various languages, learning new tricks 
     <a href = "https://www.linkedin.com/in/sadman-rafith-597b451b7/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" width="40px"/></a>
       <a href = "https://www.hackerrank.com/rafithsadman?hr_r=1"><img src = "https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" width = "40px"/></a>
       <a href = "https://codeforces.com/profile/Rafith"><img src = "https://cdn.iconscout.com/icon/free/png-256/code-forces-3628695-3029920.png" width = "40px"/></a>
+       <a href="https://www.codechef.com/users/rafithsadman" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="SadmanRafith" height="30" width="40" /></a>
+       <a href = "https://stackoverflow.com/users/21132955/sadman-rafith"><img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" width = "40px"/></a>
       <a href = "https://auth.geeksforgeeks.org/user/sadmanrafith"><img src = "https://img.icons8.com/color/480/GeeksforGeeks.png" width = "40px"/></a>
 
   
