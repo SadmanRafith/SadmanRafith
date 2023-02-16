@@ -35,6 +35,8 @@ A clear mindset of solving problems with various languages, learning new tricks 
 <img height="50" src = "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Microsoft_Office_Word_%282019%E2%80%93present%29.svg/2203px-Microsoft_Office_Word_%282019%E2%80%93present%29.svg.png">
 <img height="50" src = "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/2203px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png">
 <img height="50" src = "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Microsoft_Office_PowerPoint_%282019%E2%80%93present%29.svg/640px-Microsoft_Office_PowerPoint_%282019%E2%80%93present%29.svg.png">
+<img height="50" src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTM779y9inijGdrIxrsvXIFZ5S2c35LrhW9PlvoO8hK5JBYsrx-giqe8ZG3RjczcqPiojo&usqp=CAU">
+
 
 
   
