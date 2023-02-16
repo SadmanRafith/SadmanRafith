@@ -16,7 +16,7 @@ A clear mindset of solving problems with various languages, learning new tricks 
 
 <br>
  
-🔗Prefferred Languages::
+## Prefferred Languages::
   
  <img height="50" src = "https://brandslogos.com/wp-content/uploads/images/java-logo-1.png"><img height="50">
 <img height="50" src = "https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png?20201023095457"> 
