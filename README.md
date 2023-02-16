@@ -69,7 +69,7 @@ A clear mindset of solving problems with various languages, learning new tricks 
   <br>
   <br>
        
- ## <img src="https://e7.pngegg.com/pngimages/327/729/png-clipart-spotify-playlist-podcast-apps-miscellaneous-logo.png" width="50px"/>  Spotify Playing 🎧
+ ## <img src="https://baypark.ca/wp-content/uploads/2020/02/spotify-logo-png-spotify-music-app-icon-1024.jpg" width="30px"/>  Spotify Playing 🎧
 
 ![Spotify](https://novatorem.vercel.app/api/spotify)
 
