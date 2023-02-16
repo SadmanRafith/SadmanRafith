@@ -68,6 +68,15 @@ A clear mindset of solving problems with various languages, learning new tricks 
 </p>
   <br>
   <br>
+       
+ ### Spotify Playing 🎧
+
+![Spotify](https://novatorem.vercel.app/api/spotify)
+
+<br/>
+ 
+ <hr>
+  
 
  
 
