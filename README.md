@@ -13,6 +13,7 @@ A clear mindset of solving problems with various languages, learning new tricks 
 -	B.Sc from American International University - Bangladesh. (Expected graduation on 2026)
 -	Completed A-Levels from American International school & college, Dhaka.
 -	Completed O-Levels from Sunshine Grammar School & college, Chattragram
+-	Favourite Language is Java, sql
 
 <br>
  
