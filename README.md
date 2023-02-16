@@ -59,8 +59,7 @@ A clear mindset of solving problems with various languages, learning new tricks 
 [![Rafith's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=SadmanRafith&theme=nord)](https://github.com/SadmanRafith/github-readme-activity-graph)
 
 ![](https://github-readme-stats.vercel.app/api?username=SadmanRafith&theme=nord&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SadmanRafith&theme=nord_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SadmanRafith&theme=nord_dark)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SadmanRafith&theme=nord&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 <br/>
      <p align="centre">
    <img height="150" width="150" src="https://github.com/ahammadmejbah/AHAMMADMEJBAH/blob/main/WEBP/left.webp">
@@ -89,4 +88,3 @@ A clear mindset of solving problems with various languages, learning new tricks 
 <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
 </div>
 </p>
-   
