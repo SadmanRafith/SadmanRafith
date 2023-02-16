@@ -5,7 +5,7 @@
 
 <p align="center"><img src="https://raw.githubusercontent.com/mdabusufian/MdAbuSufian/main/assets/header.png"></p>
 
-   ## Hey Everyone! I'm [Sadman Rafith!](https://github.com/SadmanRafith)
+   ## Hey Everyone! I'm [Sadman Rafith](https://github.com/SadmanRafith)
 <p><img src="https://komarev.com/ghpvc/?username=SadmanRafith&label=Profile%20views&color=0e8bb4&style=flat" alt="SadmanRafith" /></p>
    
 ##   <img src="https://www.pngmart.com/files/21/About-Me-PNG.png" width="50px"/> About me
