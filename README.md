@@ -30,7 +30,7 @@ A clear mindset of solving problems with various languages, learning new tricks 
 <img height="50" src = "https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png"><img height ="50"> 
 <img height="50" src = "https://1000logos.net/wp-content/uploads/2020/08/Visual-Studio-Logo.png"> 
 <img height="50" src = "https://www.nesabamedia.com/wp-content/uploads/2019/07/Code-Blocks-Logo-1.png"> 
-<img height="50" src = "https://cdn4.iconfinder.com/data/icons/flat-brand-logo-2/512/oracle-512.png"><img height ="50"> 
+<img height="50" src = "https://i0.wp.com/sybyl.com/wp-content/uploads/2019/11/Oracle-Logo-For-Website.png?ssl=1">
 <img height="50" src = "https://upload.wikimedia.org/wikipedia/commons/0/0f/Notepad%2B%2B_Logo.png?20121112030109">
 <img height="50" src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTM779y9inijGdrIxrsvXIFZ5S2c35LrhW9PlvoO8hK5JBYsrx-giqe8ZG3RjczcqPiojo&usqp=CAU">
 <img height="50" src = "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Microsoft_Office_Word_%282019%E2%80%93present%29.svg/2203px-Microsoft_Office_Word_%282019%E2%80%93present%29.svg.png">
