@@ -83,3 +83,4 @@ A clear mindset of solving problems with various languages, learning new tricks 
 <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
 </div>
 </p>
+   <img src="https://imgur.com/rilHVxA.png"/> 
