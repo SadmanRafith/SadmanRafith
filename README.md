@@ -17,7 +17,7 @@ A clear mindset of solving problems with various languages, learning new tricks 
 
 <br>
  
-##  <img src="https://cdn-icons-png.flaticon.com/512/2905/2905983.png" width="30px"/> Prefferred Languages::
+##  <img src="https://cdn-icons-png.flaticon.com/512/2905/2905983.png" width="30px"/> Prefferred Languages:
   
 <img height="50" src = "https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png?20201023095457"><img height ="50"> 
 <img height="50" src = "https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg">
