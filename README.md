@@ -41,7 +41,7 @@ A clear mindset of solving problems with various languages, learning new tricks 
 
 
   
-  ## <img src="https://images-platform.99static.com//979ew2eYmqF1PQhuf9MFQTjWn84=/0x0:1058x1058/fit-in/500x500/projects-files/49/4991/499142/20cfa402-5689-4eea-be2e-08406663e87d.jpg" width="30px"/> Connect with me 
+  ## <img src="https://images.squarespace-cdn.com/content/v1/558172f0e4b077ee5306aa83/1621593923041-L8J2MEU4KGNNTQ9L60HK/logo-14-4.png" width="30px"/> Connect with me 
 
 <p align="left">
     <a href = "https://www.facebook.com/sadman.rafith.20/"><img src="https://img.icons8.com/fluent/48/000000/facebook.png" width="40px"/></a>
