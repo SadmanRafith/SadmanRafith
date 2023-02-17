@@ -62,7 +62,7 @@ A clear mindset of solving problems with various languages, learning new tricks 
 <br/>
      <p align="centre">
    <img height="150" width="150" src="https://github.com/ahammadmejbah/AHAMMADMEJBAH/blob/main/WEBP/left.webp">
-      ![](https://github-readme-streak-stats.herokuapp.com/?user=SadmanRafith&theme=nord&hide_border=false)
+      ![](https://github-readme-streak-stats.herokuapp.com/?user=SadmanRafith&count_private=true&theme=nord&hide_border=false)
   <img height="150" width="150" src="https://github.com/ahammadmejbah/AHAMMADMEJBAH/blob/main/WEBP/right.webp">
 </p>
   <br>
