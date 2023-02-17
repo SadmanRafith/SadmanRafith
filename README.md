@@ -8,7 +8,7 @@
    ## Hey Everyone! I'm [Sadman Rafith](https://github.com/SadmanRafith)
 <p><img src="https://komarev.com/ghpvc/?username=SadmanRafith&label=Profile%20views&color=0e8bb4&style=flat" alt="SadmanRafith" /></p>
    
-##   <img src="https://www.pngmart.com/files/21/About-Me-PNG.png" width="50px"/> About me
+## <img src="https://www.pngmart.com/files/21/About-Me-PNG.png" width="50px"/> About me
 A clear mindset of solving problems with various languages, learning new tricks of solving problems. Currently studying BSc in Computer Science & Engineering.
 -	B.Sc from American International University - Bangladesh. (Expected graduation on 2026)
 -	Completed A-Levels from American International school & college, Dhaka.
@@ -17,7 +17,7 @@ A clear mindset of solving problems with various languages, learning new tricks 
 
 <br>
  
-## Prefferred Languages::
+##  <img src="https://cdn-icons-png.flaticon.com/512/2905/2905983.png" width="30px"/> Prefferred Languages::
   
  <img height="50" src = "https://brandslogos.com/wp-content/uploads/images/java-logo-1.png"><img height="50">
 <img height="50" src = "https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png?20201023095457"> 
