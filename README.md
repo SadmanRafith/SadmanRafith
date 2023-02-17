@@ -76,8 +76,6 @@ A clear mindset of solving problems with various languages, learning new tricks 
  
  <hr>
   
-
- 
 <div align="center">
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
 
