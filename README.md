@@ -28,7 +28,7 @@ A clear mindset of solving problems with various languages, learning new tricks 
 ## <img src="https://media.istockphoto.com/id/1061632886/vector/repair.jpg?s=612x612&w=0&k=20&c=QfQQC-1DrpnATv2srXhd_ZDpkXI1CqfGsZ_6T-N0luo=" width="30px"/> Working Tool
 
 <img height="50" src = "https://img.icons8.com/color/256/visual-studio-code-2019.png"><img height ="50"> 
-<img height="50" src = "https://1000logos.net/wp-content/uploads/2020/08/Visual-Studio-Logo.png"> 
+<img height="50" src = "https://img.icons8.com/fluency/256/visual-studio.png">
 <img height="50" src = "https://www.nesabamedia.com/wp-content/uploads/2019/07/Code-Blocks-Logo-1.png"> 
 <img height="50" src = "https://i0.wp.com/sybyl.com/wp-content/uploads/2019/11/Oracle-Logo-For-Website.png?ssl=1">
 <img height="50" src = "https://upload.wikimedia.org/wikipedia/commons/0/0f/Notepad%2B%2B_Logo.png?20121112030109">
