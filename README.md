@@ -31,7 +31,7 @@ A clear mindset of solving problems with various languages, learning new tricks 
 <img height="50" src = "https://img.icons8.com/fluency/256/visual-studio.png">
 <img height="50" src = "https://img.icons8.com/color/256/code-blocks.png"><img height="50" src = "https://i0.wp.com/sybyl.com/wp-content/uploads/2019/11/Oracle-Logo-For-Website.png?ssl=1">
 <img height="50" src = "https://upload.wikimedia.org/wikipedia/commons/0/0f/Notepad%2B%2B_Logo.png?20121112030109">
-<img height="50" src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTM779y9inijGdrIxrsvXIFZ5S2c35LrhW9PlvoO8hK5JBYsrx-giqe8ZG3RjczcqPiojo&usqp=CAU">
+<img height="40" src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTM779y9inijGdrIxrsvXIFZ5S2c35LrhW9PlvoO8hK5JBYsrx-giqe8ZG3RjczcqPiojo&usqp=CAU">
 <img height="50" src = "https://img.icons8.com/color/256/ms-word.png">
 <img height="50" src = "https://img.icons8.com/color/256/ms-excel.png">
 <img height="50" src = "https://img.icons8.com/color/256/ms-powerpoint--v1.png">
