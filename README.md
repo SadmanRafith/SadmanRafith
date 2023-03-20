@@ -33,7 +33,7 @@ A clear mindset of solving problems with various languages, learning new tricks 
 <img height="50" src = "https://upload.wikimedia.org/wikipedia/commons/0/0f/Notepad%2B%2B_Logo.png?20121112030109">
 <img height="50" src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTM779y9inijGdrIxrsvXIFZ5S2c35LrhW9PlvoO8hK5JBYsrx-giqe8ZG3RjczcqPiojo&usqp=CAU">
 <img height="50" src = "https://img.icons8.com/color/256/ms-word.png">
-<img height="50" src = "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/2203px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png">
+<img height="50" src = "https://img.icons8.com/color/256/ms-powerpoint--v1.png">
 <img height="50" src = "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Microsoft_Office_PowerPoint_%282019%E2%80%93present%29.svg/640px-Microsoft_Office_PowerPoint_%282019%E2%80%93present%29.svg.png">
 
 
