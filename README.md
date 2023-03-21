@@ -17,7 +17,7 @@ A clear mindset of solving problems with various languages, learning new tricks 
 
 <br>
  
-##  <img src="https://cdn-icons-png.flaticon.com/512/2905/2905983.png" width="30px"/> Prefferred Languages:
+##  <img src="https://img.icons8.com/color/256/language.png" width="40px"/> Prefferred Languages:
   
 <a href = "https://www.w3schools.com/c/c_intro.php"><img height="50" src="https://img.icons8.com/color/256/c-programming.png"/><img height = "50">
 <a href = "https://www.w3schools.com/cpp/default.asp"><img height="50" src="https://img.icons8.com/color/256/c-plus-plus-logo.png"/>
