@@ -50,7 +50,7 @@ A clear mindset of solving problems with various languages, learning new tricks 
       <a href = "https://www.hackerrank.com/rafithsadman?hr_r=1"><img src = "https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/256/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-shadow-tal-revivo.png" width = "40px"/></a>
       <a href = "https://codeforces.com/profile/Rafith"><img src = "https://cdn.iconscout.com/icon/free/png-256/code-forces-3628695-3029920.png" width = "40px"/></a>
        <a href="https://www.codechef.com/users/rafithsadman" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="SadmanRafith" height="30" width="40" /></a>
-       <a href = "https://stackoverflow.com/users/21132955/sadman-rafith"><img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" width = "40px"/></a>
+       <a href = "https://stackoverflow.com/users/21132955/sadman-rafith"><img src = "https://img.icons8.com/external-tal-revivo-color-tal-revivo/256/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png" width = "40px"/></a>
       <a href = "https://auth.geeksforgeeks.org/user/sadmanrafith"><img src = "https://img.icons8.com/color/480/GeeksforGeeks.png" width = "40px"/></a>
 
   
