@@ -25,7 +25,7 @@ A clear mindset of solving problems with various languages, learning new tricks 
 <a href = "https://www.w3schools.com/sql/default.asp"><img height="50" src="https://img.icons8.com/color/256/mysql-logo.png"/>
 
 
-## <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/256/external-ide-computer-science-flaticons-lineal-color-flat-icons.png" width="30px"/> Working Tool
+## <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/256/external-ide-computer-science-flaticons-lineal-color-flat-icons.png" width="40px"/> Working Tool
 
 <img height="50" src = "https://img.icons8.com/color/256/visual-studio-code-2019.png"><img height ="50"> 
 <img height="50" src = "https://img.icons8.com/fluency/256/visual-studio.png">
