@@ -19,7 +19,7 @@ A clear mindset of solving problems with various languages, learning new tricks 
  
 ##  <img src="https://cdn-icons-png.flaticon.com/512/2905/2905983.png" width="30px"/> Prefferred Languages:
   
-<img height="50" src="https://img.icons8.com/color/256/c-programming.png"/><img height = "50"><img href = "https://www.facebook.com/sadman.rafith.20/">
+<a href = "https://www.facebook.com/sadman.rafith.20/"><img height="50" src="https://img.icons8.com/color/256/c-programming.png"/><img height = "50">
 <img height="50" src="https://img.icons8.com/color/256/c-plus-plus-logo.png"/>
 <img height="50" src="https://img.icons8.com/color/256/java-coffee-cup-logo.png"/>
 <img height="50" src="https://img.icons8.com/color/256/mysql-logo.png"/>
