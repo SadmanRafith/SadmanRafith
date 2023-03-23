@@ -45,7 +45,7 @@ A clear mindset of solving problems with various languages, learning new tricks 
   ## <img src="https://img.icons8.com/color/256/call-me-skin-type-1.png" width="30px"/> Connect with me 
 
 <p align="left">
-    <a href = "https://www.facebook.com/sadman.rafith.20/"><img src="https://img.icons8.com/fluent/48/000000/facebook.png" width="40px"/></a>
+    <a href = "https://www.facebook.com/sadman.rafith.20/"><img src="https://img.icons8.com/arcade/256/facebook-new.png" width="42px"/></a>
     <a href = "https://www.instagram.com/sadman_rafith/?hl=en"><img src="https://cdn4.iconfinder.com/data/icons/social-media-2210/24/Instagram-512.png"width="40px"/</a>
     <a href = "https://www.linkedin.com/in/sadman-rafith-597b451b7/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" width="40px"/></a>
       <a href = "https://www.hackerrank.com/rafithsadman?hr_r=1"><img src = "https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/256/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-shadow-tal-revivo.png" width = "40px"/></a>
