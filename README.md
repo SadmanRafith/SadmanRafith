@@ -37,6 +37,7 @@ A clear mindset of solving problems with various languages, learning new tricks 
 <img height="50" src = "https://img.icons8.com/color/256/ms-excel.png">
 <img height="50" src = "https://img.icons8.com/color/256/ms-powerpoint--v1.png">
 <img height="50" src = "https://img.icons8.com/fluency/256/microsoft-teams-2019.png">
+<img height="50" src = "https://img.icons8.com/fluency/256/obs-studio.png"> 
 
 
 
