@@ -23,6 +23,7 @@ A clear mindset of solving problems with various languages, learning new tricks 
 <a href = "https://www.w3schools.com/cpp/default.asp"><img height="50" src="https://img.icons8.com/color/256/c-plus-plus-logo.png"/>
 <a href = "https://www.javatpoint.com/java-tutorial"><img height="50" src="https://img.icons8.com/color/256/java-coffee-cup-logo.png"/>
 <a href = "https://www.w3schools.com/sql/default.asp"><img height="50" src="https://img.icons8.com/color/256/mysql-logo.png"/>
+<img height="50" src="https://img.icons8.com/color/256/html-5--v1.png"/>
 
 
 ## <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/256/external-ide-computer-science-flaticons-lineal-color-flat-icons.png" width="40px"/> Working Tool
