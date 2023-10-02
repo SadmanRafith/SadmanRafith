@@ -58,9 +58,6 @@ A clear mindset of solving problems with various languages, learning new tricks 
 
   
 
-## <img src="https://cdn-icons-png.flaticon.com/512/1011/1011579.png" width="50px"/> Rafith's GitHub Contribution
-[![Rafith's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=SadmanRafith&theme=material-palenight&count_private=true)](https://github.com/SadmanRafith/github-readme-activity-graph)
-
 ![](https://github-readme-stats.vercel.app/api?username=SadmanRafith&theme=nord&hide_border=false&include_all_commits=false&count_private=true&show_icons=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SadmanRafith&theme=nord&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 <br/>
