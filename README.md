@@ -19,17 +19,20 @@ A clear mindset of solving problems with various languages, learning new tricks 
  
 ##  <img src="https://img.icons8.com/color/256/language.png" width="40px"/> Prefferred Languages:
   
-<a href = "https://www.w3schools.com/c/c_intro.php"><img height="50" src="https://img.icons8.com/color/256/c-programming.png"/><img height = "50">
-<a href = "https://www.w3schools.com/cpp/default.asp"><img height="50" src="https://img.icons8.com/color/256/c-plus-plus-logo.png"/>
-<a href = "https://www.javatpoint.com/java-tutorial"><img height="50" src="https://img.icons8.com/color/256/java-coffee-cup-logo.png"/>
+<a href = "https://www.w3schools.com/c/c_intro.php"><img height="50" src="https://skillicons.dev/icons?i=c" /><img height = "50">
+<a href = "https://www.w3schools.com/cpp/default.asp"><img height="50" src="https://skillicons.dev/icons?i=cpp"/>
+ <img src="https://skillicons.dev/icons?i=cs" />
+<a href = "https://www.javatpoint.com/java-tutorial"><img height="50" src="https://skillicons.dev/icons?i=java"/>
+<a href = "https://www.w3schools.com/html/"><img height="50" src="https://skillicons.dev/icons?i=html"/>
+  <img src="https://skillicons.dev/icons?i=css" />
 <a href = "https://www.w3schools.com/sql/default.asp"><img height="50" src="https://img.icons8.com/color/256/mysql-logo.png"/>
-<a href = "https://www.w3schools.com/html/"><img height="50" src="https://img.icons8.com/color/256/html-5--v1.png"/>
+
 
 
 ## <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/256/external-ide-computer-science-flaticons-lineal-color-flat-icons.png" width="40px"/> Working Tool
 
-<img height="50" src = "https://img.icons8.com/color/256/visual-studio-code-2019.png"><img height ="50"> 
-<img height="50" src = "https://img.icons8.com/fluency/256/visual-studio.png">
+<img height="50" src = "https://skillicons.dev/icons?i=vscode"><img height ="50"> 
+<img height="50" src = "https://skillicons.dev/icons?i=visualstudio">
 <img height="50" src = "https://img.icons8.com/color/256/code-blocks.png"><img height="50" src = "https://i0.wp.com/sybyl.com/wp-content/uploads/2019/11/Oracle-Logo-For-Website.png?ssl=1">
 <img height="50" src = "https://img.icons8.com/fluency/256/notepad-plus-plus.png">
  <img height="50" src = "https://img.icons8.com/office/256/java-eclipse.png">
@@ -58,16 +61,9 @@ A clear mindset of solving problems with various languages, learning new tricks 
 
   
 
-![](https://github-readme-stats.vercel.app/api?username=SadmanRafith&theme=nord&hide_border=false&include_all_commits=false&count_private=true&show_icons=true)<br/>
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SadmanRafith&theme=nord&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 <br/>
-     <p align="centre">
-   <img height="150" width="150" src="https://github.com/ahammadmejbah/AHAMMADMEJBAH/blob/main/WEBP/left.webp">
-      ![](https://github-readme-streak-stats.herokuapp.com/?user=SadmanRafith&count_private=true&theme=nord&hide_border=false)
-  <img height="150" width="150" src="https://github.com/ahammadmejbah/AHAMMADMEJBAH/blob/main/WEBP/right.webp">
-</p>
-  <br>
-  <br>
        
  ## <img src="https://baypark.ca/wp-content/uploads/2020/02/spotify-logo-png-spotify-music-app-icon-1024.jpg" width="20px"/>  Spotify Playing 🎧
 
